@@ -9,9 +9,6 @@ int main() {
     cout<<"enter second number ";
        cin>>num2;
     
- 
-    
-    
     if (num1 < num2) {
         cout << "The smaller number is " << num1 << endl;
     } else {
